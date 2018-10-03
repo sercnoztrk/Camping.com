@@ -1,0 +1,16 @@
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+
+.img-thumbnail img { 
+    width: 100%
+}
+
+.img-thumbnail {
+    padding: 0px
+}
+
+.col-md-9 .img-thumbnail figcaption {
+    padding: 9px;
+}
