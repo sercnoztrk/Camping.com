@@ -28,7 +28,7 @@ app.use(flash());
 
 //  PASSPORT CONFIGURATION
 app.use(session({
-    secret: "YelpCamp all the way!",
+    secret: "Camping all the way!",
     resave: false,
     saveUninitialized: false
 }));
